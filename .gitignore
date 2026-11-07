@@ -1,0 +1,8 @@
+data/*.sqlite
+data/*.joblib
+data/*.log
+uploads/*
+!uploads/.gitkeep
+testbed/*.tar.gz
+testbed/*.log
+__pycache__/
